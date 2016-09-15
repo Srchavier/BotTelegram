@@ -1,0 +1,59 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 25/08/2016, 20:40:56
+    Author     : 201611386
+    nome:  eduardo rodrigues fernandes
+    matricula:  201611386 
+*/
+
+
+
+.pagina{
+    background:url(../foto/fundo.png);
+    text-shadow: white 0px 0px 20px;
+    font-size: 15px;
+    background-size: 100%;
+    background-color: blue;
+   
+}
+
+#resposta{
+    margin: auto;
+    padding: 50px;
+    margin-top: 4%;
+    width: 50%;
+    height: 50%;  
+    color: green;
+    font-style: italic;
+}
+
+
+.Cabeçalho {
+
+    margin-top: 15px;
+    text-align: center;
+    border-radius: 8px 8px 0 0;
+
+}
+
+nav {
+
+    margin-top: 5px;
+    text-align: center;
+}
+#text{
+    color:red;
+    margin-bottom: 2%
+}
+
+
+  .row {
+    margin-left:  80%;
+    margin-right: 80%;
+  }
+
+
